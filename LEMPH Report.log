@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.2.11)  21 MAY 2014 22:00
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.2.11)  22 MAY 2014 03:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1034,7 +1034,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 419--426
 \T2A/cmr/m/n/10 ве-ча-ю-щих за уг-ло-вые пе-ре-ме-ще-ни€ объ-ек-
  []
 
-<LEMPH Report_files/LEMPH Report_14_0.png, id=130, 876.27374pt x 690.58pt>
+<LEMPH Report_files/LEMPH Report_14_0.png, id=134, 876.27374pt x 690.58pt>
 File: LEMPH Report_files/LEMPH Report_14_0.png Graphic file (type png)
 
 <use LEMPH Report_files/LEMPH Report_14_0.png>
@@ -1193,7 +1193,7 @@ Underfull \hbox (badness 1533) in paragraph at lines 439--442
 \T2A/cmr/m/n/10 спектр рас-се-€н-но-го из-лу-че-ни€ лампы-вспышки
  []
 
-<LEMPH Report_files/LEMPH Report_17_0.jpeg, id=132, 1047.915pt x 429.605pt>
+<LEMPH Report_files/LEMPH Report_17_0.jpeg, id=136, 1047.915pt x 429.605pt>
 File: LEMPH Report_files/LEMPH Report_17_0.jpeg Graphic file (type jpg)
 
 <use LEMPH Report_files/LEMPH Report_17_0.jpeg>
@@ -1215,7 +1215,7 @@ Underfull \hbox (badness 1024) in paragraph at lines 452--455
 \T2A/cmr/m/n/10 его рас-се-€н-ным све-том от све-та вспыш-ки) на
  []
 
-<LEMPH Report_files/LEMPH Report_19_0.jpeg, id=133, 642.4pt x 481.8pt>
+<LEMPH Report_files/LEMPH Report_19_0.jpeg, id=137, 642.4pt x 481.8pt>
 File: LEMPH Report_files/LEMPH Report_19_0.jpeg Graphic file (type jpg)
 
 <use LEMPH Report_files/LEMPH Report_19_0.jpeg>
@@ -1289,7 +1289,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyra' on input line 465.
 
-<LEMPH Report_files/LEMPH Report_22_0.png, id=150, 994.71625pt x 531.9875pt>
+<LEMPH Report_files/LEMPH Report_22_0.png, id=154, 994.71625pt x 531.9875pt>
 File: LEMPH Report_files/LEMPH Report_22_0.png Graphic file (type png)
 
 <use LEMPH Report_files/LEMPH Report_22_0.png>
@@ -1326,7 +1326,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrr' on input line 479.
 
 
-<LEMPH Report_files/LEMPH Report_26_0.jpeg, id=151, 1127.21124pt x 671.50874pt>
+<LEMPH Report_files/LEMPH Report_26_0.jpeg, id=155, 1127.21124pt x 671.50874pt>
 File: LEMPH Report_files/LEMPH Report_26_0.jpeg Graphic file (type jpg)
 <use LEMPH Report_files/LEMPH Report_26_0.jpeg>
 Package pdftex.def Info: LEMPH Report_files/LEMPH Report_26_0.jpeg used on inpu
@@ -1389,7 +1389,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyra' on input line 493.
 
-<LEMPH Report_files/LEMPH Report_29_0.jpeg, id=152, 642.4pt x 481.8pt>
+<LEMPH Report_files/LEMPH Report_29_0.jpeg, id=156, 642.4pt x 481.8pt>
 File: LEMPH Report_files/LEMPH Report_29_0.jpeg Graphic file (type jpg)
 
 <use LEMPH Report_files/LEMPH Report_29_0.jpeg>
@@ -1723,7 +1723,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyra' on input line 529.
 
-<LEMPH Report_files/LEMPH Report_35_0.png, id=160, 681.54625pt x 435.6275pt>
+<LEMPH Report_files/LEMPH Report_35_0.png, id=164, 681.54625pt x 435.6275pt>
 File: LEMPH Report_files/LEMPH Report_35_0.png Graphic file (type png)
 
 <use LEMPH Report_files/LEMPH Report_35_0.png>
@@ -1791,7 +1791,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrv' on input line 541.
 
-<LEMPH Report_files/LEMPH Report_37_0.jpeg, id=161, 642.4pt x 481.8pt>
+<LEMPH Report_files/LEMPH Report_37_0.jpeg, id=165, 642.4pt x 481.8pt>
 File: LEMPH Report_files/LEMPH Report_37_0.jpeg Graphic file (type jpg)
 
 <use LEMPH Report_files/LEMPH Report_37_0.jpeg>
@@ -1857,7 +1857,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyra' on input line 553.
 
-<LEMPH Report_files/LEMPH Report_40_0.jpeg, id=167, 513.92pt x 232.067pt>
+<LEMPH Report_files/LEMPH Report_40_0.jpeg, id=171, 513.92pt x 232.067pt>
 File: LEMPH Report_files/LEMPH Report_40_0.jpeg Graphic file (type jpg)
 
 <use LEMPH Report_files/LEMPH Report_40_0.jpeg>
@@ -1870,7 +1870,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 560--561
  []
 
 
-<LEMPH Report_files/LEMPH Report_42_0.jpeg, id=168, 844.15375pt x 597.23125pt>
+<LEMPH Report_files/LEMPH Report_42_0.jpeg, id=172, 844.15375pt x 597.23125pt>
 File: LEMPH Report_files/LEMPH Report_42_0.jpeg Graphic file (type jpg)
 
 <use LEMPH Report_files/LEMPH Report_42_0.jpeg>
@@ -2026,10 +2026,6 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyre' on input line 582.
 
-
-LaTeX Warning: Command \CYRE invalid in math mode on input line 623.
-
-Missing character: There is no ≈ in font cmr10!
 [6 <./LEMPH Report_files/LEMPH Report_40_0.jpeg> <./LEMPH Report_files/LEMPH Re
 port_42_0.jpeg>]
 
@@ -2041,377 +2037,275 @@ Underfull \hbox (badness 1122) in paragraph at lines 646--647
 []\T2A/cmr/m/n/10 ƒанна€ вол-на по-л€-ри-за-ции из-лу-ча-ет све-то-вую
  []
 
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-3.def
+File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [7]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRR' on input line 655.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 655.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrz' on input line 655.
+(hyperref)                removing `\CYRR' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyru' on input line 655.
+(hyperref)                removing `\cyre' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 655.
+(hyperref)                removing `\cyrz' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrsftsn' on input line 655.
+(hyperref)                removing `\cyru' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 655.
+(hyperref)                removing `\cyrl' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 655.
+(hyperref)                removing `\cyrsftsn' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 655.
+(hyperref)                removing `\cyrt' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 655.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 656.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 656.
-
-Missing character: There is no н in font cmr10!
-Missing character: There is no м in font cmr10!
-[7]
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRP' on input line 666.
+(hyperref)                removing `\cyra' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 666.
+(hyperref)                removing `\cyrt' on input line 682.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 666.
+(hyperref)                removing `\cyrery' on input line 682.
 
+<LEMPH Report_files/green laser.jpg, id=196, 576.1525pt x 326.21875pt>
+File: LEMPH Report_files/green laser.jpg Graphic file (type jpg)
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 666.
+<use LEMPH Report_files/green laser.jpg>
+Package pdftex.def Info: LEMPH Report_files/green laser.jpg used on input line 
+685.
+(pdftex.def)             Requested size: 234.8775pt x 132.98895pt.
 
+Overfull \hbox (5.0pt too wide) in paragraph at lines 685--686
+[][] 
+ []
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 666.
+<LEMPH Report_files/without filters.jpg, id=197, 642.4pt x 481.8pt>
+File: LEMPH Report_files/without filters.jpg Graphic file (type jpg)
 
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrzh' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrya' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRO' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrs' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrc' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrg' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrm' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrm' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYREREV' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrk' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrf' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrya' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrm' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrsh' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 666.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 666.
-
-<LEMPH Report_files/LEMPH Report_66_0.jpeg, id=189, 642.4pt x 481.8pt>
-File: LEMPH Report_files/LEMPH Report_66_0.jpeg Graphic file (type jpg)
-
-<use LEMPH Report_files/LEMPH Report_66_0.jpeg>
-Package pdftex.def Info: LEMPH Report_files/LEMPH Report_66_0.jpeg used on inpu
-t line 673.
+<use LEMPH Report_files/without filters.jpg>
+Package pdftex.def Info: LEMPH Report_files/without filters.jpg used on input l
+ine 689.
 (pdftex.def)             Requested size: 234.8775pt x 176.15327pt.
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 673--674
- [] 
+Overfull \hbox (5.0pt too wide) in paragraph at lines 689--690
+[][] 
  []
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRS' on input line 681.
+(hyperref)                removing `\CYRL' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrp' on input line 681.
+(hyperref)                removing `\cyra' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 681.
+(hyperref)                removing `\cyrz' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrk' on input line 681.
+(hyperref)                removing `\cyre' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 681.
+(hyperref)                removing `\cyrr' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 681.
+(hyperref)                removing `\cyrn' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 681.
+(hyperref)                removing `\cyra' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 681.
+(hyperref)                removing `\cyrk' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 681.
+(hyperref)                removing `\cyrr' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrz' on input line 681.
+(hyperref)                removing `\cyra' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 681.
+(hyperref)                removing `\cyrs' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 681.
+(hyperref)                removing `\cyri' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrch' on input line 681.
+(hyperref)                removing `\cyrt' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 681.
+(hyperref)                removing `\cyre' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 681.
+(hyperref)                removing `\cyrl' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrh' on input line 681.
+(hyperref)                removing `\cyrya' on input line 694.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 681.
+(hyperref)                removing `\cyrh' on input line 694.
+
+<LEMPH Report_files/scheme.jpg, id=198, 1883.035pt x 2055.68pt>
+File: LEMPH Report_files/scheme.jpg Graphic file (type jpg)
+
+<use LEMPH Report_files/scheme.jpg>
+Package pdftex.def Info: LEMPH Report_files/scheme.jpg used on input line 702.
+(pdftex.def)             Requested size: 234.8775pt x 256.39476pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 702--703
+ [][] 
+ []
+
+<LEMPH Report_files/1,2.jpg, id=199, 598.235pt x 321.2pt>
+File: LEMPH Report_files/1,2.jpg Graphic file (type jpg)
+
+<use LEMPH Report_files/1,2.jpg>
+Package pdftex.def Info: LEMPH Report_files/1,2.jpg used on input line 707.
+(pdftex.def)             Requested size: 234.8775pt x 126.11049pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 707--708
+ [][] 
+ []
+
+<LEMPH Report_files/1,5.jpg, id=200, 586.19pt x 303.1325pt>
+File: LEMPH Report_files/1,5.jpg Graphic file (type jpg)
+
+<use LEMPH Report_files/1,5.jpg>
+Package pdftex.def Info: LEMPH Report_files/1,5.jpg used on input line 712.
+(pdftex.def)             Requested size: 234.8775pt x 121.45898pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 712--713
+ [][] 
+ []
+
+<LEMPH Report_files/lumin and gener.jpg, id=201, 560.0925pt x 314.17375pt>
+File: LEMPH Report_files/lumin and gener.jpg Graphic file (type jpg)
+
+<use LEMPH Report_files/lumin and gener.jpg>
+Package pdftex.def Info: LEMPH Report_files/lumin and gener.jpg used on input l
+ine 716.
+(pdftex.def)             Requested size: 234.8775pt x 131.75072pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 716--717
+[][] 
+ []
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrs' on input line 681.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 681.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 681.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrch' on input line 681.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<LEMPH Report_files/with filters.jpg, id=202, 642.4pt x 481.8pt>
+File: LEMPH Report_files/with filters.jpg Graphic file (type jpg)
+
+<use LEMPH Report_files/with filters.jpg>
+Package pdftex.def Info: LEMPH Report_files/with filters.jpg used on input line
+ 724.
+(pdftex.def)             Requested size: 234.8775pt x 176.15327pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 724--725
+[][] 
+ []
 
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 681.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 681.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrk' on input line 681.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 681.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 681.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 688.
-[8
-
- <./LEMPH Report_files/LEMPH Report_66_0.jpeg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 688.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 733.
+[8 <./LEMPH Report_files/green laser.jpg> <./LEMPH Report_files/without filters
+.jpg>] [9 <./LEMPH Report_files/scheme.jpg> <./LEMPH Report_files/1,2.jpg> <./L
+EMPH Report_files/1,5.jpg> <./LEMPH Report_files/lumin and gener.jpg> <./LEMPH 
+Report_files/with filters.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 733.
  (./LEMPH Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 688.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 688.
-Package rerunfilecheck Info: File `"LEMPH Report".out' has not changed.
-(rerunfilecheck)             Checksum: 20782A4DA21B59061222B7F9A2CC83C2;1045.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 688.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 733.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 733.
+
+
+Package rerunfilecheck Warning: File `"LEMPH Report".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"LEMPH Report".out':
+(rerunfilecheck)             Before: 7F42BDFC1B33BF77BB465C7017F839BA;1086
+(rerunfilecheck)             After:  ECC9321C3BD6D1B81A9B28AF12D0EB1E;884.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 733.
  ) 
 Here is how much of TeX's memory you used:
- 12108 strings out of 493328
- 173553 string characters out of 6140733
- 271012 words of memory out of 5000000
- 15296 multiletter control sequences out of 15000+600000
- 17413 words of font info for 49 fonts, out of 8000000 for 9000
+ 12860 strings out of 493328
+ 182854 string characters out of 6140733
+ 274367 words of memory out of 5000000
+ 16028 multiletter control sequences out of 15000+600000
+ 18216 words of font info for 50 fonts, out of 8000000 for 9000
  953 hyphenation exceptions out of 8191
- 36i,10n,38p,684b,717s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/cm-super/sfbi1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/c
-m-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super
-/sfbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx14
-40.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on "LEMPH Report.pdf" (8 pages, 872770 bytes).
+ 36i,10n,75p,1259b,717s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{subsection.6.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.6.1.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.6} has been referenced but does not exist, 
+replaced by a fixed one
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/cm-super/sfbi1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
+super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
+fbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on "LEMPH Report.pdf" (9 pages, 1783594 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 73 named destinations out of 1000 (max. 500000)
- 224 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 291 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
 
